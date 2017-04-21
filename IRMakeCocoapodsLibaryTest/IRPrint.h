@@ -1,18 +1,17 @@
 //
-//  IRPrintTest.h
+//  IRPrint.h
 //  IRMakeCocoapodsLibaryTest
 //
-//  Created by qiaoqiao on 2017/4/21.
+//  Created by qiaoqiao on 2017/4/20.
 //  Copyright © 2017年 irena. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 
-@interface IRPrintTest : NSObject
+@interface IRPrint : NSObject
 
-/**
- 打印测试
- */
 -(void)print;
+
+-(void)updatePrint;
 
 @end

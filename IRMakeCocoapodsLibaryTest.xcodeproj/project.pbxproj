@@ -7,71 +7,71 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		77C9C8A31EA9CDAB00A02082 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 77C9C8A21EA9CDAB00A02082 /* main.m */; };
-		77C9C8A61EA9CDAB00A02082 /* IRAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 77C9C8A51EA9CDAB00A02082 /* IRAppDelegate.m */; };
-		77C9C8A91EA9CDAB00A02082 /* IRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 77C9C8A81EA9CDAB00A02082 /* IRViewController.m */; };
-		77C9C8AC1EA9CDAB00A02082 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77C9C8AA1EA9CDAB00A02082 /* Main.storyboard */; };
-		77C9C8AE1EA9CDAB00A02082 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77C9C8AD1EA9CDAB00A02082 /* Assets.xcassets */; };
-		77C9C8B11EA9CDAB00A02082 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77C9C8AF1EA9CDAB00A02082 /* LaunchScreen.storyboard */; };
-		77C9C8BC1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 77C9C8BB1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestTests.m */; };
-		77C9C8C71EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 77C9C8C61EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestUITests.m */; };
-		77C9C8D61EA9D6C000A02082 /* IRPrintTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 77C9C8D51EA9D6C000A02082 /* IRPrintTest.m */; };
+		775AF4621EA8A59900DB0F2A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 775AF4611EA8A59900DB0F2A /* main.m */; };
+		775AF4651EA8A59900DB0F2A /* IRAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 775AF4641EA8A59900DB0F2A /* IRAppDelegate.m */; };
+		775AF4681EA8A59900DB0F2A /* IRViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 775AF4671EA8A59900DB0F2A /* IRViewController.m */; };
+		775AF46B1EA8A59900DB0F2A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 775AF4691EA8A59900DB0F2A /* Main.storyboard */; };
+		775AF46D1EA8A59900DB0F2A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 775AF46C1EA8A59900DB0F2A /* Assets.xcassets */; };
+		775AF4701EA8A59900DB0F2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 775AF46E1EA8A59900DB0F2A /* LaunchScreen.storyboard */; };
+		775AF47B1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 775AF47A1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestTests.m */; };
+		775AF4861EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 775AF4851EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestUITests.m */; };
+		775AF4951EA8B29F00DB0F2A /* IRPrint.m in Sources */ = {isa = PBXBuildFile; fileRef = 775AF4941EA8B29F00DB0F2A /* IRPrint.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		77C9C8B81EA9CDAB00A02082 /* PBXContainerItemProxy */ = {
+		775AF4771EA8A59900DB0F2A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 77C9C8961EA9CDAB00A02082 /* Project object */;
+			containerPortal = 775AF4551EA8A59900DB0F2A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 77C9C89D1EA9CDAB00A02082;
+			remoteGlobalIDString = 775AF45C1EA8A59900DB0F2A;
 			remoteInfo = IRMakeCocoapodsLibaryTest;
 		};
-		77C9C8C31EA9CDAB00A02082 /* PBXContainerItemProxy */ = {
+		775AF4821EA8A59900DB0F2A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 77C9C8961EA9CDAB00A02082 /* Project object */;
+			containerPortal = 775AF4551EA8A59900DB0F2A /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 77C9C89D1EA9CDAB00A02082;
+			remoteGlobalIDString = 775AF45C1EA8A59900DB0F2A;
 			remoteInfo = IRMakeCocoapodsLibaryTest;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		77C9C89E1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IRMakeCocoapodsLibaryTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		77C9C8A21EA9CDAB00A02082 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		77C9C8A41EA9CDAB00A02082 /* IRAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IRAppDelegate.h; sourceTree = "<group>"; };
-		77C9C8A51EA9CDAB00A02082 /* IRAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IRAppDelegate.m; sourceTree = "<group>"; };
-		77C9C8A71EA9CDAB00A02082 /* IRViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IRViewController.h; sourceTree = "<group>"; };
-		77C9C8A81EA9CDAB00A02082 /* IRViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IRViewController.m; sourceTree = "<group>"; };
-		77C9C8AB1EA9CDAB00A02082 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		77C9C8AD1EA9CDAB00A02082 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		77C9C8B01EA9CDAB00A02082 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		77C9C8B21EA9CDAB00A02082 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		77C9C8B71EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IRMakeCocoapodsLibaryTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		77C9C8BB1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IRMakeCocoapodsLibaryTestTests.m; sourceTree = "<group>"; };
-		77C9C8BD1EA9CDAB00A02082 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		77C9C8C21EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IRMakeCocoapodsLibaryTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		77C9C8C61EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IRMakeCocoapodsLibaryTestUITests.m; sourceTree = "<group>"; };
-		77C9C8C81EA9CDAB00A02082 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		77C9C8D41EA9D6C000A02082 /* IRPrintTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IRPrintTest.h; sourceTree = "<group>"; };
-		77C9C8D51EA9D6C000A02082 /* IRPrintTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IRPrintTest.m; sourceTree = "<group>"; };
+		775AF45D1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IRMakeCocoapodsLibaryTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		775AF4611EA8A59900DB0F2A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		775AF4631EA8A59900DB0F2A /* IRAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IRAppDelegate.h; sourceTree = "<group>"; };
+		775AF4641EA8A59900DB0F2A /* IRAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IRAppDelegate.m; sourceTree = "<group>"; };
+		775AF4661EA8A59900DB0F2A /* IRViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = IRViewController.h; sourceTree = "<group>"; };
+		775AF4671EA8A59900DB0F2A /* IRViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IRViewController.m; sourceTree = "<group>"; };
+		775AF46A1EA8A59900DB0F2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		775AF46C1EA8A59900DB0F2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		775AF46F1EA8A59900DB0F2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		775AF4711EA8A59900DB0F2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		775AF4761EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IRMakeCocoapodsLibaryTestTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		775AF47A1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IRMakeCocoapodsLibaryTestTests.m; sourceTree = "<group>"; };
+		775AF47C1EA8A59900DB0F2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		775AF4811EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IRMakeCocoapodsLibaryTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		775AF4851EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IRMakeCocoapodsLibaryTestUITests.m; sourceTree = "<group>"; };
+		775AF4871EA8A59900DB0F2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		775AF4931EA8B29F00DB0F2A /* IRPrint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IRPrint.h; sourceTree = "<group>"; };
+		775AF4941EA8B29F00DB0F2A /* IRPrint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IRPrint.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		77C9C89B1EA9CDAB00A02082 /* Frameworks */ = {
+		775AF45A1EA8A59900DB0F2A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		77C9C8B41EA9CDAB00A02082 /* Frameworks */ = {
+		775AF4731EA8A59900DB0F2A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		77C9C8BF1EA9CDAB00A02082 /* Frameworks */ = {
+		775AF47E1EA8A59900DB0F2A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -81,66 +81,66 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		77C9C8951EA9CDAB00A02082 = {
+		775AF4541EA8A59900DB0F2A = {
 			isa = PBXGroup;
 			children = (
-				77C9C8A01EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTest */,
-				77C9C8BA1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestTests */,
-				77C9C8C51EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestUITests */,
-				77C9C89F1EA9CDAB00A02082 /* Products */,
+				775AF45F1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTest */,
+				775AF4791EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestTests */,
+				775AF4841EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestUITests */,
+				775AF45E1EA8A59900DB0F2A /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		77C9C89F1EA9CDAB00A02082 /* Products */ = {
+		775AF45E1EA8A59900DB0F2A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				77C9C89E1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTest.app */,
-				77C9C8B71EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestTests.xctest */,
-				77C9C8C21EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestUITests.xctest */,
+				775AF45D1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTest.app */,
+				775AF4761EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestTests.xctest */,
+				775AF4811EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		77C9C8A01EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTest */ = {
+		775AF45F1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTest */ = {
 			isa = PBXGroup;
 			children = (
-				77C9C8A41EA9CDAB00A02082 /* IRAppDelegate.h */,
-				77C9C8A51EA9CDAB00A02082 /* IRAppDelegate.m */,
-				77C9C8A71EA9CDAB00A02082 /* IRViewController.h */,
-				77C9C8A81EA9CDAB00A02082 /* IRViewController.m */,
-				77C9C8AA1EA9CDAB00A02082 /* Main.storyboard */,
-				77C9C8AD1EA9CDAB00A02082 /* Assets.xcassets */,
-				77C9C8AF1EA9CDAB00A02082 /* LaunchScreen.storyboard */,
-				77C9C8B21EA9CDAB00A02082 /* Info.plist */,
-				77C9C8A11EA9CDAB00A02082 /* Supporting Files */,
-				77C9C8D41EA9D6C000A02082 /* IRPrintTest.h */,
-				77C9C8D51EA9D6C000A02082 /* IRPrintTest.m */,
+				775AF4631EA8A59900DB0F2A /* IRAppDelegate.h */,
+				775AF4641EA8A59900DB0F2A /* IRAppDelegate.m */,
+				775AF4661EA8A59900DB0F2A /* IRViewController.h */,
+				775AF4671EA8A59900DB0F2A /* IRViewController.m */,
+				775AF4691EA8A59900DB0F2A /* Main.storyboard */,
+				775AF46C1EA8A59900DB0F2A /* Assets.xcassets */,
+				775AF46E1EA8A59900DB0F2A /* LaunchScreen.storyboard */,
+				775AF4931EA8B29F00DB0F2A /* IRPrint.h */,
+				775AF4941EA8B29F00DB0F2A /* IRPrint.m */,
+				775AF4711EA8A59900DB0F2A /* Info.plist */,
+				775AF4601EA8A59900DB0F2A /* Supporting Files */,
 			);
 			path = IRMakeCocoapodsLibaryTest;
 			sourceTree = "<group>";
 		};
-		77C9C8A11EA9CDAB00A02082 /* Supporting Files */ = {
+		775AF4601EA8A59900DB0F2A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				77C9C8A21EA9CDAB00A02082 /* main.m */,
+				775AF4611EA8A59900DB0F2A /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		77C9C8BA1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestTests */ = {
+		775AF4791EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestTests */ = {
 			isa = PBXGroup;
 			children = (
-				77C9C8BB1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestTests.m */,
-				77C9C8BD1EA9CDAB00A02082 /* Info.plist */,
+				775AF47A1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestTests.m */,
+				775AF47C1EA8A59900DB0F2A /* Info.plist */,
 			);
 			path = IRMakeCocoapodsLibaryTestTests;
 			sourceTree = "<group>";
 		};
-		77C9C8C51EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestUITests */ = {
+		775AF4841EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestUITests */ = {
 			isa = PBXGroup;
 			children = (
-				77C9C8C61EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestUITests.m */,
-				77C9C8C81EA9CDAB00A02082 /* Info.plist */,
+				775AF4851EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestUITests.m */,
+				775AF4871EA8A59900DB0F2A /* Info.plist */,
 			);
 			path = IRMakeCocoapodsLibaryTestUITests;
 			sourceTree = "<group>";
@@ -148,13 +148,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		77C9C89D1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTest */ = {
+		775AF45C1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 77C9C8CB1EA9CDAB00A02082 /* Build configuration list for PBXNativeTarget "IRMakeCocoapodsLibaryTest" */;
+			buildConfigurationList = 775AF48A1EA8A59900DB0F2A /* Build configuration list for PBXNativeTarget "IRMakeCocoapodsLibaryTest" */;
 			buildPhases = (
-				77C9C89A1EA9CDAB00A02082 /* Sources */,
-				77C9C89B1EA9CDAB00A02082 /* Frameworks */,
-				77C9C89C1EA9CDAB00A02082 /* Resources */,
+				775AF4591EA8A59900DB0F2A /* Sources */,
+				775AF45A1EA8A59900DB0F2A /* Frameworks */,
+				775AF45B1EA8A59900DB0F2A /* Resources */,
 			);
 			buildRules = (
 			);
@@ -162,72 +162,72 @@
 			);
 			name = IRMakeCocoapodsLibaryTest;
 			productName = IRMakeCocoapodsLibaryTest;
-			productReference = 77C9C89E1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTest.app */;
+			productReference = 775AF45D1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTest.app */;
 			productType = "com.apple.product-type.application";
 		};
-		77C9C8B61EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestTests */ = {
+		775AF4751EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 77C9C8CE1EA9CDAB00A02082 /* Build configuration list for PBXNativeTarget "IRMakeCocoapodsLibaryTestTests" */;
+			buildConfigurationList = 775AF48D1EA8A59900DB0F2A /* Build configuration list for PBXNativeTarget "IRMakeCocoapodsLibaryTestTests" */;
 			buildPhases = (
-				77C9C8B31EA9CDAB00A02082 /* Sources */,
-				77C9C8B41EA9CDAB00A02082 /* Frameworks */,
-				77C9C8B51EA9CDAB00A02082 /* Resources */,
+				775AF4721EA8A59900DB0F2A /* Sources */,
+				775AF4731EA8A59900DB0F2A /* Frameworks */,
+				775AF4741EA8A59900DB0F2A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				77C9C8B91EA9CDAB00A02082 /* PBXTargetDependency */,
+				775AF4781EA8A59900DB0F2A /* PBXTargetDependency */,
 			);
 			name = IRMakeCocoapodsLibaryTestTests;
 			productName = IRMakeCocoapodsLibaryTestTests;
-			productReference = 77C9C8B71EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestTests.xctest */;
+			productReference = 775AF4761EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		77C9C8C11EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestUITests */ = {
+		775AF4801EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 77C9C8D11EA9CDAB00A02082 /* Build configuration list for PBXNativeTarget "IRMakeCocoapodsLibaryTestUITests" */;
+			buildConfigurationList = 775AF4901EA8A59900DB0F2A /* Build configuration list for PBXNativeTarget "IRMakeCocoapodsLibaryTestUITests" */;
 			buildPhases = (
-				77C9C8BE1EA9CDAB00A02082 /* Sources */,
-				77C9C8BF1EA9CDAB00A02082 /* Frameworks */,
-				77C9C8C01EA9CDAB00A02082 /* Resources */,
+				775AF47D1EA8A59900DB0F2A /* Sources */,
+				775AF47E1EA8A59900DB0F2A /* Frameworks */,
+				775AF47F1EA8A59900DB0F2A /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				77C9C8C41EA9CDAB00A02082 /* PBXTargetDependency */,
+				775AF4831EA8A59900DB0F2A /* PBXTargetDependency */,
 			);
 			name = IRMakeCocoapodsLibaryTestUITests;
 			productName = IRMakeCocoapodsLibaryTestUITests;
-			productReference = 77C9C8C21EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestUITests.xctest */;
+			productReference = 775AF4811EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		77C9C8961EA9CDAB00A02082 /* Project object */ = {
+		775AF4551EA8A59900DB0F2A /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = IR;
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = irena;
 				TargetAttributes = {
-					77C9C89D1EA9CDAB00A02082 = {
+					775AF45C1EA8A59900DB0F2A = {
 						CreatedOnToolsVersion = 8.3.1;
 						ProvisioningStyle = Automatic;
 					};
-					77C9C8B61EA9CDAB00A02082 = {
+					775AF4751EA8A59900DB0F2A = {
 						CreatedOnToolsVersion = 8.3.1;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 77C9C89D1EA9CDAB00A02082;
+						TestTargetID = 775AF45C1EA8A59900DB0F2A;
 					};
-					77C9C8C11EA9CDAB00A02082 = {
+					775AF4801EA8A59900DB0F2A = {
 						CreatedOnToolsVersion = 8.3.1;
 						ProvisioningStyle = Automatic;
-						TestTargetID = 77C9C89D1EA9CDAB00A02082;
+						TestTargetID = 775AF45C1EA8A59900DB0F2A;
 					};
 				};
 			};
-			buildConfigurationList = 77C9C8991EA9CDAB00A02082 /* Build configuration list for PBXProject "IRMakeCocoapodsLibaryTest" */;
+			buildConfigurationList = 775AF4581EA8A59900DB0F2A /* Build configuration list for PBXProject "IRMakeCocoapodsLibaryTest" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -235,37 +235,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 77C9C8951EA9CDAB00A02082;
-			productRefGroup = 77C9C89F1EA9CDAB00A02082 /* Products */;
+			mainGroup = 775AF4541EA8A59900DB0F2A;
+			productRefGroup = 775AF45E1EA8A59900DB0F2A /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				77C9C89D1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTest */,
-				77C9C8B61EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestTests */,
-				77C9C8C11EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestUITests */,
+				775AF45C1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTest */,
+				775AF4751EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestTests */,
+				775AF4801EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		77C9C89C1EA9CDAB00A02082 /* Resources */ = {
+		775AF45B1EA8A59900DB0F2A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77C9C8B11EA9CDAB00A02082 /* LaunchScreen.storyboard in Resources */,
-				77C9C8AE1EA9CDAB00A02082 /* Assets.xcassets in Resources */,
-				77C9C8AC1EA9CDAB00A02082 /* Main.storyboard in Resources */,
+				775AF4701EA8A59900DB0F2A /* LaunchScreen.storyboard in Resources */,
+				775AF46D1EA8A59900DB0F2A /* Assets.xcassets in Resources */,
+				775AF46B1EA8A59900DB0F2A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		77C9C8B51EA9CDAB00A02082 /* Resources */ = {
+		775AF4741EA8A59900DB0F2A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		77C9C8C01EA9CDAB00A02082 /* Resources */ = {
+		775AF47F1EA8A59900DB0F2A /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -275,61 +275,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		77C9C89A1EA9CDAB00A02082 /* Sources */ = {
+		775AF4591EA8A59900DB0F2A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77C9C8D61EA9D6C000A02082 /* IRPrintTest.m in Sources */,
-				77C9C8A91EA9CDAB00A02082 /* IRViewController.m in Sources */,
-				77C9C8A61EA9CDAB00A02082 /* IRAppDelegate.m in Sources */,
-				77C9C8A31EA9CDAB00A02082 /* main.m in Sources */,
+				775AF4951EA8B29F00DB0F2A /* IRPrint.m in Sources */,
+				775AF4681EA8A59900DB0F2A /* IRViewController.m in Sources */,
+				775AF4651EA8A59900DB0F2A /* IRAppDelegate.m in Sources */,
+				775AF4621EA8A59900DB0F2A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		77C9C8B31EA9CDAB00A02082 /* Sources */ = {
+		775AF4721EA8A59900DB0F2A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77C9C8BC1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestTests.m in Sources */,
+				775AF47B1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		77C9C8BE1EA9CDAB00A02082 /* Sources */ = {
+		775AF47D1EA8A59900DB0F2A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				77C9C8C71EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTestUITests.m in Sources */,
+				775AF4861EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTestUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		77C9C8B91EA9CDAB00A02082 /* PBXTargetDependency */ = {
+		775AF4781EA8A59900DB0F2A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 77C9C89D1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTest */;
-			targetProxy = 77C9C8B81EA9CDAB00A02082 /* PBXContainerItemProxy */;
+			target = 775AF45C1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTest */;
+			targetProxy = 775AF4771EA8A59900DB0F2A /* PBXContainerItemProxy */;
 		};
-		77C9C8C41EA9CDAB00A02082 /* PBXTargetDependency */ = {
+		775AF4831EA8A59900DB0F2A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 77C9C89D1EA9CDAB00A02082 /* IRMakeCocoapodsLibaryTest */;
-			targetProxy = 77C9C8C31EA9CDAB00A02082 /* PBXContainerItemProxy */;
+			target = 775AF45C1EA8A59900DB0F2A /* IRMakeCocoapodsLibaryTest */;
+			targetProxy = 775AF4821EA8A59900DB0F2A /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		77C9C8AA1EA9CDAB00A02082 /* Main.storyboard */ = {
+		775AF4691EA8A59900DB0F2A /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				77C9C8AB1EA9CDAB00A02082 /* Base */,
+				775AF46A1EA8A59900DB0F2A /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		77C9C8AF1EA9CDAB00A02082 /* LaunchScreen.storyboard */ = {
+		775AF46E1EA8A59900DB0F2A /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				77C9C8B01EA9CDAB00A02082 /* Base */,
+				775AF46F1EA8A59900DB0F2A /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -337,7 +337,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		77C9C8C91EA9CDAB00A02082 /* Debug */ = {
+		775AF4881EA8A59900DB0F2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -386,7 +386,7 @@
 			};
 			name = Debug;
 		};
-		77C9C8CA1EA9CDAB00A02082 /* Release */ = {
+		775AF4891EA8A59900DB0F2A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -429,7 +429,7 @@
 			};
 			name = Release;
 		};
-		77C9C8CC1EA9CDAB00A02082 /* Debug */ = {
+		775AF48B1EA8A59900DB0F2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -440,7 +440,7 @@
 			};
 			name = Debug;
 		};
-		77C9C8CD1EA9CDAB00A02082 /* Release */ = {
+		775AF48C1EA8A59900DB0F2A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -451,7 +451,7 @@
 			};
 			name = Release;
 		};
-		77C9C8CF1EA9CDAB00A02082 /* Debug */ = {
+		775AF48E1EA8A59900DB0F2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -463,7 +463,7 @@
 			};
 			name = Debug;
 		};
-		77C9C8D01EA9CDAB00A02082 /* Release */ = {
+		775AF48F1EA8A59900DB0F2A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -475,7 +475,7 @@
 			};
 			name = Release;
 		};
-		77C9C8D21EA9CDAB00A02082 /* Debug */ = {
+		775AF4911EA8A59900DB0F2A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = IRMakeCocoapodsLibaryTestUITests/Info.plist;
@@ -486,7 +486,7 @@
 			};
 			name = Debug;
 		};
-		77C9C8D31EA9CDAB00A02082 /* Release */ = {
+		775AF4921EA8A59900DB0F2A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = IRMakeCocoapodsLibaryTestUITests/Info.plist;
@@ -500,40 +500,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		77C9C8991EA9CDAB00A02082 /* Build configuration list for PBXProject "IRMakeCocoapodsLibaryTest" */ = {
+		775AF4581EA8A59900DB0F2A /* Build configuration list for PBXProject "IRMakeCocoapodsLibaryTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				77C9C8C91EA9CDAB00A02082 /* Debug */,
-				77C9C8CA1EA9CDAB00A02082 /* Release */,
+				775AF4881EA8A59900DB0F2A /* Debug */,
+				775AF4891EA8A59900DB0F2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		77C9C8CB1EA9CDAB00A02082 /* Build configuration list for PBXNativeTarget "IRMakeCocoapodsLibaryTest" */ = {
+		775AF48A1EA8A59900DB0F2A /* Build configuration list for PBXNativeTarget "IRMakeCocoapodsLibaryTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				77C9C8CC1EA9CDAB00A02082 /* Debug */,
-				77C9C8CD1EA9CDAB00A02082 /* Release */,
+				775AF48B1EA8A59900DB0F2A /* Debug */,
+				775AF48C1EA8A59900DB0F2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		77C9C8CE1EA9CDAB00A02082 /* Build configuration list for PBXNativeTarget "IRMakeCocoapodsLibaryTestTests" */ = {
+		775AF48D1EA8A59900DB0F2A /* Build configuration list for PBXNativeTarget "IRMakeCocoapodsLibaryTestTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				77C9C8CF1EA9CDAB00A02082 /* Debug */,
-				77C9C8D01EA9CDAB00A02082 /* Release */,
+				775AF48E1EA8A59900DB0F2A /* Debug */,
+				775AF48F1EA8A59900DB0F2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		77C9C8D11EA9CDAB00A02082 /* Build configuration list for PBXNativeTarget "IRMakeCocoapodsLibaryTestUITests" */ = {
+		775AF4901EA8A59900DB0F2A /* Build configuration list for PBXNativeTarget "IRMakeCocoapodsLibaryTestUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				77C9C8D21EA9CDAB00A02082 /* Debug */,
-				77C9C8D31EA9CDAB00A02082 /* Release */,
+				775AF4911EA8A59900DB0F2A /* Debug */,
+				775AF4921EA8A59900DB0F2A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 77C9C8961EA9CDAB00A02082 /* Project object */;
+	rootObject = 775AF4551EA8A59900DB0F2A /* Project object */;
 }
