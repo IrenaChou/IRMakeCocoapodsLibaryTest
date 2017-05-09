@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "IRMakeCocoapodsLibaryTest"
-  s.version      = "0.0.9"
+  s.version      = "0.1.0"
   s.summary      = "IRMakeCocoapodsLibaryTest测试."
 
   s.description  = <<-DESC
